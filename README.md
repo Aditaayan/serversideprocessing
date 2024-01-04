@@ -132,8 +132,9 @@ urlpatterns = [
 
 
 
-Home Page:
-284830517-855033bc-de76-4e77-8917-01ac9254de83
+### Home Page:
 
-Result:
+![291914076-4f68952d-f996-477e-a420-9bdd578af245](https://github.com/Aditaayan/serversideprocessing/assets/147473394/0eae68d2-a1dd-4dad-b5c8-1b754d9b3b06)
+
+### Result:
 the program is executed succssfully
