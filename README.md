@@ -1,27 +1,29 @@
-![291914160-21e7fc12-3354-4e8e-aa10-99ed87af2f8a](https://github.com/Aditaayan/serversideprocessing/assets/147473394/384d2a89-9124-4a7e-a8f7-fa3747cd6456)Design a Website for Server Side Processing
-AIM:
+### Design a Website for Server Side Processing
+
+### AIM:
 To design a website to perform mathematical calculations in server side.
 
-DESIGN STEPS:
-Step 1:
+### DESIGN STEPS:
+
+### Step 1:
 Desing your website for calculation using wireframe work
 
-Step 2:
+### Step 2:
 Then to execute the wireframe work desing use html,cs
 
-Step 3:
+### Step 3:
 Then to execute the wireframe work desing use html,cs
 
-Step 4:
+### Step 4:
 Mention the path of the website in urls.py
 
-Step 5:
+### Step 5:
 Publish the website in the given URL
 
-Step 6:
+### Step 6:
 Publish the website in the given URL.
 
-PROGRAM :
+### PROGRAM :
 ```
 math.html
 <html>
@@ -124,7 +126,7 @@ urlpatterns = [
     path('areaofprism/',views.prismarea,name="areaofprism"),
 ]
 ```
-OUTPUT:
+### OUTPUT:
 ![291914160-21e7fc12-3354-4e8e-aa10-99ed87af2f8a](https://github.com/Aditaayan/serversideprocessing/assets/147473394/0d029d45-fcea-410f-b36f-7ee76a96f24e)
 
 
